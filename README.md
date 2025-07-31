@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=dawson-b23&theme=catppuccin-mocha&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawson-b23&show_icons=true&theme=catppuccin_mocha)](https://github.com/dawson-b23/github-readme-stats)
 <!--
 **dawson-b23/dawson-b23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
